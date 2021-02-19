@@ -1,0 +1,1057 @@
+[
+    {
+      "_id": "602278b9a048282c14d14560",
+      "Issuer": "רייזור",
+      "Security Name": "רייזור",
+      "Security Type": "מניה",
+      "Security ID": "1172527",
+      "New or Existing Security": "מניות - IPO",
+      "Inst Auction Date": "08/02/2021",
+      "Public Auction Date": "",
+      "Sector": "טכנולוגיה",
+      "Linkage": "",
+      "Duration": "",
+      "Rating": "מניה",
+      "Covenant": "מניה",
+      "Auction Type": "הצעה לא אחידה - מחיר",
+      "Inst Commitment Fee": "",
+      "Inst Opening Limit": "",
+      "Inst Opening Yield": "",
+      "Inst Opening Margin": "",
+      "Inst Closing Limit": "1,260.00",
+      "Inst Closing Yield": "",
+      "Inst Closing Margin": "",
+      "Inst Demand (units)": "",
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": 92200,
+      "Inst Closing (ILS)": 116172000,
+      "Public Offered Units": "",
+      "Lead Underwriter": "דיסקונט",
+      "Sub Underwriters": "",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": "",
+      "Success Fee": "",
+      "Underwriting Fee": 5.75,
+      "Public Auction Fee": 7000,
+      "Public Closing (units)": 92200,
+      "Public Closing (ILS)": 116172000,
+      "id": 0
+    },
+    {
+      "_id": "602278b9a048282c14d14561",
+      "Issuer": "מיכמן",
+      "Security Name": "מיכמן",
+      "Security Type": "מניה",
+      "Security ID": "1172337",
+      "New or Existing Security": "מניות - IPO",
+      "Inst Auction Date": "",
+      "Public Auction Date": "4/2/2021",
+      "Sector": "שרותים פיננסיים",
+      "Linkage": "",
+      "Duration": "",
+      "Rating": "מניה",
+      "Covenant": "מניה",
+      "Auction Type": "",
+      "Inst Commitment Fee": "",
+      "Inst Opening Limit": "",
+      "Inst Opening Yield": "",
+      "Inst Opening Margin": "",
+      "Inst Closing Limit": "",
+      "Inst Closing Yield": "",
+      "Inst Closing Margin": "",
+      "Inst Demand (units)": "",
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": "",
+      "Inst Closing (ILS)": "",
+      "Public Offered Units": 3914,
+      "Lead Underwriter": "לאומי",
+      "Sub Underwriters": "אוריון",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 5.17,
+      "Success Fee": "",
+      "Underwriting Fee": "",
+      "Public Auction Fee": 25000,
+      "Public Closing (units)": 3914,
+      "Public Closing (ILS)": 25167020,
+      "id": 1
+    },
+    {
+      "_id": "602278b9a048282c14d14562",
+      "Issuer": "הראל פקדון סחיר",
+      "Security Name": "הראל פקדון אגח א",
+      "Security Type": "אגח",
+      "Security ID": "1159623",
+      "New or Existing Security": "אגח - הרחבה",
+      "Inst Auction Date": "03/02/2021",
+      "Public Auction Date": "7/2/2021",
+      "Sector": "מכשירים פיננסים",
+      "Linkage": "שקלי משתנה",
+      "Duration": "0.11",
+      "Rating": "Aaa",
+      "Covenant": "שעבוד צף ראשון",
+      "Auction Type": "מחיר",
+      "Inst Commitment Fee": 0.04,
+      "Inst Opening Limit": 1006.3,
+      "Inst Opening Yield": 0.35,
+      "Inst Opening Margin": 0.25,
+      "Inst Closing Limit": "1,006.30",
+      "Inst Closing Yield": "0.35%",
+      "Inst Closing Margin": "0.25%",
+      "Inst Demand (units)": 233464,
+      "Inst Demand (ILS)": 235000000,
+      "Inst Closing (units)": 206464,
+      "Inst Closing (ILS)": 207764723,
+      "Public Offered Units": 350000,
+      "Lead Underwriter": "לידר",
+      "Sub Underwriters": "",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 0.04,
+      "Success Fee": "",
+      "Underwriting Fee": "",
+      "Public Auction Fee": "",
+      "Public Closing (units)": "",
+      "Public Closing (ILS)": "",
+      "winningOffersList": [
+        {
+          "name": "אי.בי.אי. אסטרטגיות 20-90 קרן נאמנות",
+          "limit": 1006.3,
+          "units": 12500
+        },
+        {
+          "name": "ג'י.אף.סי גרין פילדס קפיטל בע\"מ",
+          "limit": 1006.3,
+          "units": 2000
+        },
+        {
+          "name": "מגדל קרנות נאמנות בע\"מ",
+          "limit": 1006.3,
+          "units": 57000
+        },
+        {
+          "name": "מור ניהול קרנות נאמנות (2013) בע\"מ",
+          "limit": 1006.3,
+          "units": 32330
+        },
+        {
+          "name": "מיטב תכלית קרנות נאמנות בע\"מ",
+          "limit": 1006.3,
+          "units": 58500
+        },
+        {
+          "name": "פסגות קופות גמל ופנסיה בע\"מ",
+          "limit": 1006.5,
+          "units": 5734
+        },
+        {
+          "name": "פסגות קרנות נאמנות בע\"מ",
+          "limit": 1006.5,
+          "units": 18400
+        },
+        {
+          "name": "ריט 1 בע\"מ",
+          "limit": 1006.3,
+          "units": 20000
+        }
+      ],
+      "id": 2
+    },
+    {
+      "_id": "602278b9a048282c14d14563",
+      "Issuer": "טוגדר פארמה",
+      "Security Name": "טוגדר פארמה",
+      "Security Type": "חבילה",
+      "Security ID": "462010",
+      "New or Existing Security": "מניות",
+      "Inst Auction Date": "",
+      "Public Auction Date": "3/2/2021",
+      "Sector": "ביומד",
+      "Linkage": "",
+      "Duration": "",
+      "Rating": "מניה",
+      "Covenant": "מניה",
+      "Auction Type": "ללא מוסדי - מחיר",
+      "Inst Commitment Fee": "",
+      "Inst Opening Limit": "",
+      "Inst Opening Yield": "",
+      "Inst Opening Margin": "",
+      "Inst Closing Limit": "",
+      "Inst Closing Yield": "",
+      "Inst Closing Margin": "",
+      "Inst Demand (units)": "",
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": "",
+      "Inst Closing (ILS)": "",
+      "Public Offered Units": 75000,
+      "Lead Underwriter": "איפקס",
+      "Sub Underwriters": "לאומי, אפסילון, רוסאריו, ברק קפיטל, יוניקורן",
+      "Advisors": "",
+      "Advisor Fee": 30000,
+      "Distribution Fee": 5,
+      "Success Fee": 5,
+      "Underwriting Fee": "",
+      "Public Auction Fee": 30000,
+      "Public Closing (units)": 77123,
+      "Public Closing (ILS)": 17121306,
+      "id": 3
+    },
+    {
+      "_id": "602278b9a048282c14d14564",
+      "Issuer": "אקסל",
+      "Security Name": "אקסל",
+      "Security Type": "חבילה",
+      "Security ID": "770016",
+      "New or Existing Security": "מניות",
+      "Inst Auction Date": "",
+      "Public Auction Date": "1/2/2021",
+      "Sector": "מסחר ושרותים",
+      "Linkage": "",
+      "Duration": "",
+      "Rating": "מניה",
+      "Covenant": "מניה",
+      "Auction Type": "ללא מוסדי - מחיר",
+      "Inst Commitment Fee": "",
+      "Inst Opening Limit": "",
+      "Inst Opening Yield": "",
+      "Inst Opening Margin": "",
+      "Inst Closing Limit": "",
+      "Inst Closing Yield": "",
+      "Inst Closing Margin": "",
+      "Inst Demand (units)": "",
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": "",
+      "Inst Closing (ILS)": "",
+      "Public Offered Units": 200000,
+      "Lead Underwriter": "אוריון",
+      "Sub Underwriters": "",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 4,
+      "Success Fee": "",
+      "Underwriting Fee": "",
+      "Public Auction Fee": 15000,
+      "Public Closing (units)": 200000,
+      "Public Closing (ILS)": 20400000,
+      "id": 4
+    },
+    {
+      "_id": "602278b9a048282c14d14565",
+      "Issuer": "הפניקס",
+      "Security Name": "הפניקס אגח 4",
+      "Security Type": "אגח",
+      "Security ID": "7670250",
+      "New or Existing Security": "אגח - הרחבה",
+      "Inst Auction Date": "01/02/2021",
+      "Public Auction Date": "03/02/2021",
+      "Sector": "ביטוח",
+      "Linkage": "שקלי",
+      "Duration": "5.00",
+      "Rating": "AA- /  Aa3",
+      "Covenant": "",
+      "Auction Type": "מחיר",
+      "Inst Commitment Fee": 0.5,
+      "Inst Opening Limit": 996,
+      "Inst Opening Yield": 1.57,
+      "Inst Opening Margin": 1.48,
+      "Inst Closing Limit": "1,008.00",
+      "Inst Closing Yield": "1.33%",
+      "Inst Closing Margin": "1.23%",
+      "Inst Demand (units)": 192015,
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": 127384,
+      "Inst Closing (ILS)": 128403072,
+      "Public Offered Units": 127384,
+      "Lead Underwriter": "אקסלנס",
+      "Sub Underwriters": "רוסאריו",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 0.1,
+      "Success Fee": 0.05,
+      "Underwriting Fee": "",
+      "Public Auction Fee": 19500,
+      "Public Closing (units)": "",
+      "Public Closing (ILS)": "",
+      "winningOffersList": [
+        {
+          "name": "Arbitrage Global, LP",
+          "limit": 1015,
+          "units": 3000
+        },
+        {
+          "name": "א-טו-זד פיננסים בע\"מ",
+          "limit": 1025,
+          "units": 2500
+        },
+        {
+          "name": "א.נ.ו. אשכול פיננסים בע\"מ",
+          "limit": 1011,
+          "units": 6369
+        },
+        {
+          "name": "אורקום אסטרגיות בע\"מ",
+          "limit": 1019,
+          "units": 2000
+        },
+        {
+          "name": "איילון קרנות נאמנות בע\"מ",
+          "limit": 1016,
+          "units": 2200
+        },
+        {
+          "name": "איילון קרנות נאמנות בע\"מ",
+          "limit": 1012,
+          "units": 2200
+        },
+        {
+          "name": "אלטריס פיננסים בע\"מ",
+          "limit": 1012,
+          "units": 4000
+        },
+        {
+          "name": "אלטריס פיננסים בע\"מ",
+          "limit": 1009,
+          "units": 6500
+        },
+        {
+          "name": "אלטשולר שחם נץ, שותפות מוגבלת",
+          "limit": 1014,
+          "units": 1000
+        },
+        {
+          "name": "אלטשולר שחם נץ, שותפות מוגבלת",
+          "limit": 1008,
+          "units": 1000
+        },
+        {
+          "name": "אמטרין 2 שותפות מוגבלת",
+          "limit": 1008,
+          "units": 4500
+        },
+        {
+          "name": "אמטרין שותפות מוגבלת",
+          "limit": 1018,
+          "units": 1000
+        },
+        {
+          "name": "אמטרין שותפות מוגבלת",
+          "limit": 1008,
+          "units": 4000
+        },
+        {
+          "name": "אמטרין שותפות מוגבלת",
+          "limit": 1013,
+          "units": 6000
+        },
+        {
+          "name": "אראקאמבה ישראל בע\"מ",
+          "limit": 1010,
+          "units": 1000
+        },
+        {
+          "name": "אראקאמבה ישראל בע\"מ",
+          "limit": 1015,
+          "units": 2000
+        },
+        {
+          "name": "בסט אינווסט - ילין לפידות",
+          "limit": 1008,
+          "units": 1000
+        },
+        {
+          "name": "ברק קפיטל השקעות 2006 בע\"מ",
+          "limit": 1013,
+          "units": 2200
+        },
+        {
+          "name": "דנבאר פיננסים בע\"מ",
+          "limit": 1009,
+          "units": 1000
+        },
+        {
+          "name": "הראל מסחר מדדים בע\"מ",
+          "limit": 1012,
+          "units": 1000
+        },
+        {
+          "name": "ילין לפידות ניהול קופות גמל בע\"מ",
+          "limit": 1008,
+          "units": 19000
+        },
+        {
+          "name": "מגדל קרנות נאמנות בע\"מ",
+          "limit": 1015,
+          "units": 4100
+        },
+        {
+          "name": "מגדל קרנות נאמנות בע\"מ",
+          "limit": 1012,
+          "units": 10375
+        },
+        {
+          "name": "מור בית השקעות ניהול תיקים בע\"מ",
+          "limit": 1012,
+          "units": 21664
+        },
+        {
+          "name": "מחוג  מנהל  גמל  לעובדי  חברת החשמל לישראל בע\"מ",
+          "limit": 1008,
+          "units": 1000
+        },
+        {
+          "name": "מיטב תכלית קרנות נאמנות בע\"מ",
+          "limit": 1010,
+          "units": 2000
+        },
+        {
+          "name": "מיטב תכלית קרנות נאמנות בע\"מ",
+          "limit": 1011,
+          "units": 2421
+        },
+        {
+          "name": "מיטב תכלית קרנות נאמנות בע\"מ",
+          "limit": 1015,
+          "units": 10100
+        },
+        {
+          "name": "פידליטי הון סיכון בע\"מ",
+          "limit": 1016,
+          "units": 1255
+        },
+        {
+          "name": "פרוקסימה ניהול השקעות בע\"מ",
+          "limit": 1015,
+          "units": 1000
+        }
+      ],
+      "id": 5
+    },
+    {
+      "_id": "602278b9a048282c14d14566",
+      "Issuer": "הפניקס",
+      "Security Name": "הפניקס אגח 5",
+      "Security Type": "אגח",
+      "Security ID": "7670284",
+      "New or Existing Security": "אגח - הרחבה",
+      "Inst Auction Date": "01/02/2021",
+      "Public Auction Date": "03/02/2021",
+      "Sector": "ביטוח",
+      "Linkage": "מדד",
+      "Duration": "7.40",
+      "Rating": "AA- /  Aa3",
+      "Covenant": "",
+      "Auction Type": "מחיר",
+      "Inst Commitment Fee": 0.75,
+      "Inst Opening Limit": 983,
+      "Inst Opening Yield": 0.75,
+      "Inst Opening Margin": 1.66,
+      "Inst Closing Limit": "1,005.00",
+      "Inst Closing Yield": "0.45%",
+      "Inst Closing Margin": "1.36%",
+      "Inst Demand (units)": 594978,
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": 222616,
+      "Inst Closing (ILS)": 223729080,
+      "Public Offered Units": 222616,
+      "Lead Underwriter": "אקסלנס",
+      "Sub Underwriters": "רוסאריו",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 0.1,
+      "Success Fee": 0.05,
+      "Underwriting Fee": "",
+      "Public Auction Fee": 19500,
+      "Public Closing (units)": "",
+      "Public Closing (ILS)": "",
+      "winningOffersList": [
+        {
+          "name": "Arbitrage Global, LP",
+          "limit": 1009,
+          "units": 18000
+        },
+        {
+          "name": "א-טו-זד פיננסים בע\"מ",
+          "limit": 1015,
+          "units": 5000
+        },
+        {
+          "name": "אורוקום אסטרטגיות בע\"מ",
+          "limit": 1009,
+          "units": 7000
+        },
+        {
+          "name": "אלטריס פיננסים בע\"מ",
+          "limit": 1005,
+          "units": 6449
+        },
+        {
+          "name": "אמטרין 2 שותפות מוגבלת",
+          "limit": 1010,
+          "units": 3000
+        },
+        {
+          "name": "אמטרין שותפות מוגבלת",
+          "limit": 1010,
+          "units": 4000
+        },
+        {
+          "name": "אפסילון ניהול תיקי השקעות בע\"מ",
+          "limit": 1005,
+          "units": 1566
+        },
+        {
+          "name": "בכורה שירותי יעוץ והשקעות בע\"מ",
+          "limit": 1010,
+          "units": 11713
+        },
+        {
+          "name": "דנבאר פיננסים בע\"מ",
+          "limit": 1015,
+          "units": 1800
+        },
+        {
+          "name": "החברה  לניהול  קופות  התגמולים והפנסיה  של  עובדי  הסוכנות היהודית לא\"י בע\"מ",
+          "limit": 1006,
+          "units": 11500
+        },
+        {
+          "name": "הראל מסחר מדדים בע\"מ",
+          "limit": 1008,
+          "units": 1500
+        },
+        {
+          "name": "הראל קרנות נאמנות בע\"מ",
+          "limit": 1010,
+          "units": 6700
+        },
+        {
+          "name": "כלל חברה לביטוח בע\"מ",
+          "limit": 1008,
+          "units": 15000
+        },
+        {
+          "name": "כלל חברה לביטוח בע\"מ",
+          "limit": 1009,
+          "units": 90000
+        },
+        {
+          "name": "לקוחות בניהול ילין לפידות",
+          "limit": 1005,
+          "units": 6818
+        },
+        {
+          "name": "מגדל עשיית שוק בע\"מ",
+          "limit": 1020,
+          "units": 1000
+        },
+        {
+          "name": "מגדל קרנות נאמנות בע\"מ",
+          "limit": 1006,
+          "units": 875
+        },
+        {
+          "name": "מיטב דש ניהול תיקים בע\"מ",
+          "limit": 1007,
+          "units": 17220
+        },
+        {
+          "name": "מיטב תכלית קרנות נאמנות בע\"מ",
+          "limit": 1010,
+          "units": 4200
+        },
+        {
+          "name": "מיילסטון  קפיטל  (אי.אר.ג'י.אס) בע\"מ",
+          "limit": 1005,
+          "units": 921
+        },
+        {
+          "name": "מנורה מבטחים ביטוח בע\"מ",
+          "limit": 1006,
+          "units": 3000
+        },
+        {
+          "name": "פידליטי הון סיכון בע\"מ",
+          "limit": 1005,
+          "units": 2354
+        },
+        {
+          "name": "שומרה חברה לביטוח בע\"מ",
+          "limit": 1006,
+          "units": 3000
+        }
+      ],
+      "id": 6
+    },
+    {
+      "_id": "602278b9a048282c14d14567",
+      "Issuer": "סולאיר",
+      "Security Name": "סולאיר",
+      "Security Type": "מניה",
+      "Security ID": "",
+      "New or Existing Security": "מניות",
+      "Inst Auction Date": "01/02/2021",
+      "Public Auction Date": "",
+      "Sector": "טכנולוגיה",
+      "Linkage": "",
+      "Duration": "",
+      "Rating": "מניה",
+      "Covenant": "מניה",
+      "Auction Type": "הצעה לא אחידה - מחיר",
+      "Inst Commitment Fee": "",
+      "Inst Opening Limit": "",
+      "Inst Opening Yield": "",
+      "Inst Opening Margin": "",
+      "Inst Closing Limit": "4,800.00",
+      "Inst Closing Yield": "",
+      "Inst Closing Margin": "",
+      "Inst Demand (units)": "",
+      "Inst Demand (ILS)": "",
+      "Inst Closing (units)": 27500,
+      "Inst Closing (ILS)": 132000000,
+      "Public Offered Units": "",
+      "Lead Underwriter": "אפסילון,אי בי אי",
+      "Sub Underwriters": "",
+      "Advisors": "רדהאן בע\"מ",
+      "Advisor Fee": "",
+      "Distribution Fee": 2.45,
+      "Success Fee": "",
+      "Underwriting Fee": 1.25,
+      "Public Auction Fee": 30000,
+      "Public Closing (units)": 27500,
+      "Public Closing (ILS)": 132000000,
+      "id": 7
+    },
+    {
+      "_id": "602278b9a048282c14d14568",
+      "Issuer": "יוניברסל מוטורס",
+      "Security Name": "יוניברסל אגח ד",
+      "Security Type": "אגח",
+      "Security ID": "1172253",
+      "New or Existing Security": "אגח - סדרה חדשה",
+      "Inst Auction Date": "27/01/2021",
+      "Public Auction Date": "01/02/2021",
+      "Sector": "מסחר ושרותים",
+      "Linkage": "שקלי",
+      "Duration": "3.85",
+      "Rating": "A+",
+      "Covenant": "שעבוד קבוע ראשון",
+      "Auction Type": "ריבית",
+      "Inst Commitment Fee": 0.45,
+      "Inst Opening Limit": 2.85,
+      "Inst Opening Yield": 3,
+      "Inst Opening Margin": 2.78,
+      "Inst Closing Limit": "2.18",
+      "Inst Closing Yield": "2.32%",
+      "Inst Closing Margin": "2.10%",
+      "Inst Demand (units)": 527689,
+      "Inst Demand (ILS)": 527689000,
+      "Inst Closing (units)": 300000,
+      "Inst Closing (ILS)": 300000000,
+      "Public Offered Units": 300000,
+      "Lead Underwriter": "איפקס,לידר",
+      "Sub Underwriters": "אקסלנס, רוסאריו, יוניקורן, יוניק, אלפא ביתא",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 0.2,
+      "Success Fee": "",
+      "Underwriting Fee": "",
+      "Public Auction Fee": 20000,
+      "Public Closing (units)": 300000,
+      "Public Closing (ILS)": 300000000,
+      "winningOffersList": [
+        {
+          "name": "Arbitrage Global LP",
+          "limit": 2.05,
+          "units": 2500
+        },
+        {
+          "name": "VERTICAL LP",
+          "limit": 2.05,
+          "units": 1500
+        },
+        {
+          "name": "א-טו-זד פיננסים בע\"מ",
+          "limit": 1.8,
+          "units": 3100
+        },
+        {
+          "name": "א.נ.נ.י שופן ניהול השקעות בע״מ",
+          "limit": 1.85,
+          "units": 1233
+        },
+        {
+          "name": "אורקום אסטרטגיות בע\"מ",
+          "limit": 1.95,
+          "units": 3000
+        },
+        {
+          "name": "איילון פתרונות פיננסיים (2004) בע\"מ",
+          "limit": 2.09,
+          "units": 5858
+        },
+        {
+          "name": "איילון קרנות נאמנות בע\"מ",
+          "limit": 1.9,
+          "units": 15130
+        },
+        {
+          "name": "אלפי בנדק ניהול תיקי השקעות בע\"מ",
+          "limit": 1.96,
+          "units": 2500
+        },
+        {
+          "name": "אמטרין שותפות מוגבלת",
+          "limit": 2.1,
+          "units": 1300
+        },
+        {
+          "name": "אמטרין שותפות מוגבלת",
+          "limit": 2.18,
+          "units": 1756
+        },
+        {
+          "name": "אראקאמבה ישראל בע\"מ(*)",
+          "limit": 2.15,
+          "units": 1000
+        },
+        {
+          "name": "בנק איגוד נוסטרו",
+          "limit": 1.9,
+          "units": 10000
+        },
+        {
+          "name": "בנק איגוד נוסטרו",
+          "limit": 2.1,
+          "units": 10000
+        },
+        {
+          "name": "בסט אינווסט - ילין לפידות",
+          "limit": 2.18,
+          "units": 1317
+        },
+        {
+          "name": "ברק קפיטל השקעות 2006 בע\"מ",
+          "limit": 2.18,
+          "units": 2634
+        },
+        {
+          "name": "הכשרה חברה לביטוח - עמיתים",
+          "limit": 2.15,
+          "units": 2529
+        },
+        {
+          "name": "הלמן אלדובי חח\"י גמל בע\"מ",
+          "limit": 2.09,
+          "units": 2400
+        },
+        {
+          "name": "המרכז האקדמי לב",
+          "limit": 1.85,
+          "units": 2000
+        },
+        {
+          "name": "הראל קרנות נאמנות בע\"מ",
+          "limit": 2.15,
+          "units": 7705
+        },
+        {
+          "name": "ילין לפידות ניהול קופות גמל בע\"מ",
+          "limit": 2.18,
+          "units": 21946
+        },
+        {
+          "name": "ילין לפידות ניהול קרנות נאמנות בע\"מ",
+          "limit": 2.18,
+          "units": 20896
+        },
+        {
+          "name": "ילין לפידות עבור לקוחות מנוהלים",
+          "limit": 2.05,
+          "units": 2900
+        },
+        {
+          "name": "ילין לפידות עבור לקוחות מנוהלים",
+          "limit": 2.08,
+          "units": 35359
+        },
+        {
+          "name": "כלל חברה לביטוח עבור משקיעים מוסדיים בשליטתה",
+          "limit": 2.12,
+          "units": 75000
+        },
+        {
+          "name": "מגדל קרנות נאמנות בע\"מ",
+          "limit": 2.15,
+          "units": 11225
+        },
+        {
+          "name": "מור בית השקעות ניהול תיקים בע\"מ",
+          "limit": 2.14,
+          "units": 9625
+        },
+        {
+          "name": "מחוג בע\"מ",
+          "limit": 2.18,
+          "units": 1317
+        },
+        {
+          "name": "מיטב דש ניהול תיקים בע\"מ",
+          "limit": 2.1,
+          "units": 2423
+        },
+        {
+          "name": "מנורה מבטחים ביטוח בע\"מ",
+          "limit": 2.18,
+          "units": 14045
+        },
+        {
+          "name": "מפעל הפיס (חל\"צ)",
+          "limit": 2.09,
+          "units": 800
+        },
+        {
+          "name": "עציוני ניהול תיקים בגישת\" ערך \"בע\"מ",
+          "limit": 2.08,
+          "units": 1800
+        },
+        {
+          "name": "עציוני ניהול תיקים בגישת\" ערך \"בע\"מ",
+          "limit": 2.18,
+          "units": 1580
+        },
+        {
+          "name": "פידליטי הון סיכון בע\"מ",
+          "limit": 1.94,
+          "units": 2755
+        },
+        {
+          "name": "פידליטי הון סיכון בע\"מ",
+          "limit": 2.07,
+          "units": 1555
+        },
+        {
+          "name": "פלוטוס השקעות שותפות מוגבלת",
+          "limit": 2.17,
+          "units": 2500
+        },
+        {
+          "name": "פרוקסימה ניהול השקעות בע\"מ",
+          "limit": 1.95,
+          "units": 2800
+        },
+        {
+          "name": "קופ\"ג הנדסאים",
+          "limit": 2.04,
+          "units": 2750
+        },
+        {
+          "name": "קנט קרן לביטוח נזקי טבע",
+          "limit": 2.09,
+          "units": 1130
+        },
+        {
+          "name": "קרן קיימת לישראל",
+          "limit": 2.09,
+          "units": 980
+        },
+        {
+          "name": "ר.י.ל ספיריט ניהול והשקעות בע\"מ",
+          "limit": 2.08,
+          "units": 1000
+        },
+        {
+          "name": "ר.י.ל ספיריט ניהול והשקעות בע\"מ",
+          "limit": 2.18,
+          "units": 3511
+        },
+        {
+          "name": "רשות שדות התעופה",
+          "limit": 2.09,
+          "units": 1130
+        },
+        {
+          "name": "שומרה חברה לביטוח בע\"מ",
+          "limit": 2.18,
+          "units": 3511
+        }
+      ],
+      "id": 8
+    },
+    {
+      "_id": "602278b9a048282c14d14569",
+      "Issuer": "סולגרין",
+      "Security Name": "סולגרין",
+      "Security Type": "מניה",
+      "Security ID": "1102235",
+      "New or Existing Security": "מניות",
+      "Inst Auction Date": "27/01/2021",
+      "Public Auction Date": "28/01/2021",
+      "Sector": "טכנולוגיה",
+      "Linkage": "",
+      "Duration": "",
+      "Rating": "מניה",
+      "Covenant": "מניה",
+      "Auction Type": "מחיר",
+      "Inst Commitment Fee": 3,
+      "Inst Opening Limit": "",
+      "Inst Opening Yield": "",
+      "Inst Opening Margin": "",
+      "Inst Closing Limit": "3,400.00",
+      "Inst Closing Yield": "",
+      "Inst Closing Margin": "",
+      "Inst Demand (units)": 66712,
+      "Inst Demand (ILS)": 226820800,
+      "Inst Closing (units)": 51470,
+      "Inst Closing (ILS)": 174998000,
+      "Public Offered Units": 102940,
+      "Lead Underwriter": "אי בי אי",
+      "Sub Underwriters": "",
+      "Advisors": "",
+      "Advisor Fee": "",
+      "Distribution Fee": 1.3,
+      "Success Fee": "",
+      "Underwriting Fee": "",
+      "Public Auction Fee": 30000,
+      "Public Closing (units)": 102940,
+      "Public Closing (ILS)": 381495640,
+      "winningOffersList": [
+        {
+          "name": "Sphera Small Cap Fund L.P",
+          "limit": 3800,
+          "units": 2050
+        },
+        {
+          "name": "א-טו-זד פיננסים בע\"מ",
+          "limit": 4200,
+          "units": 450
+        },
+        {
+          "name": "אורקום אסטרטגיות בע\"מ",
+          "limit": 3680,
+          "units": 500
+        },
+        {
+          "name": "אידאה ש.מ.",
+          "limit": 3486,
+          "units": 900
+        },
+        {
+          "name": "אינטראקטיב ישראל שוקי הון בע\"מ",
+          "limit": 4300,
+          "units": 200
+        },
+        {
+          "name": "אלפא הזדמנויות שותפות מוגבלת",
+          "limit": 4000,
+          "units": 4300
+        },
+        {
+          "name": "בכורה שירותי יעוץ והשקעות בע\"מ",
+          "limit": 3400,
+          "units": 1460
+        },
+        {
+          "name": "גנוס בע\"מ",
+          "limit": 3500,
+          "units": 1200
+        },
+        {
+          "name": "הפניקס חברה לביטוח בע\"מ",
+          "limit": 3900,
+          "units": 1500
+        },
+        {
+          "name": "הראל קרנות נאמנות בע\"מ",
+          "limit": 3620,
+          "units": 2580
+        },
+        {
+          "name": "הראל קרנות נאמנות בע\"מ",
+          "limit": 3511,
+          "units": 2900
+        },
+        {
+          "name": "חצבים לונגLP",
+          "limit": 3400,
+          "units": 310
+        },
+        {
+          "name": "חצבים שותפות מוגבלת",
+          "limit": 3400,
+          "units": 310
+        },
+        {
+          "name": "כלל חברה לביטוח בע\"מ - נוסטרו",
+          "limit": 3700,
+          "units": 1350
+        },
+        {
+          "name": "כלל חברה לביטוח בע\"מ - עבור משקיעים מוסדיים בשליטתה",
+          "limit": 3520,
+          "units": 8571
+        },
+        {
+          "name": "מור בית השקעות ניהול תיקים בע\"מ",
+          "limit": 3432,
+          "units": 1231
+        },
+        {
+          "name": "נוקד בונדס שותפות מוגבלת",
+          "limit": 3832,
+          "units": 1000
+        },
+        {
+          "name": "נוקד בונדס שותפות מוגבלת",
+          "limit": 3602,
+          "units": 1000
+        },
+        {
+          "name": "נוקד בונדס שותפות מוגבלת",
+          "limit": 3502,
+          "units": 1000
+        },
+        {
+          "name": "נוקד לונג שותפות מוגבלת",
+          "limit": 3832,
+          "units": 2900
+        },
+        {
+          "name": "נוקד לונג שותפות מוגבלת",
+          "limit": 3602,
+          "units": 2900
+        },
+        {
+          "name": "נוקד לונג שותפות מוגבלת",
+          "limit": 3502,
+          "units": 2900
+        },
+        {
+          "name": "פנגאנה אלפא ישראל",
+          "limit": 4000,
+          "units": 720
+        },
+        {
+          "name": "קרן גידור מאסטרפלאן שותפות מוגבלת",
+          "limit": 3400,
+          "units": 310
+        },
+        {
+          "name": "ר.י.ל ספיריט ניהול והשקעות בע\"מ",
+          "limit": 3750,
+          "units": 1900
+        },
+        {
+          "name": "שותפות מניות ישראל הפניקס עמיתים",
+          "limit": 3400,
+          "units": 6755
+        },
+        {
+          "name": "שקף השקעות במעוף בע\"מ",
+          "limit": 3602,
+          "units": 273
+        }
+      ],
+      "id": 9
+    }
+  ]

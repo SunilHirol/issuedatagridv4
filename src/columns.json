@@ -1,0 +1,326 @@
+[
+    {
+      "internalID": "securityName",
+      "name": "Security Name",
+      "id": "3S4SEhYY9",
+      "type": "link",
+      "header": "Security",
+      "userSelect": true,
+      "defaultWidth": 200,
+      "minWidth": 100,
+      "defaultLocked": "start"
+    },
+    {
+      "internalID": "instAuctionDate",
+      "name": "Inst Auction Date",
+      "type": "date",
+      "header": "Date - Institutional",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultLocked": "start"
+    },
+    {
+      "id": "2_RND-VcE7",
+      "name": "Winning Offers",
+      "type": "SPCL_EXPANDROW",
+      "defaultWidth": 150,
+      "sortable": false,
+      "header": "Winning Offers",
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "newOrExistingSecurity",
+      "name": "New or Existing Security",
+      "type": "string",
+      "header": "Offering Type",
+      "userSelect": true,
+      "defaultWidth": 140,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "auctionType",
+      "name": "Auction Type",
+      "type": "string",
+      "header": "Auction Type",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "notes",
+      "name": "Notes",
+      "type": "string",
+      "header": "Notes",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "issuer",
+      "id": "qA6I6W-hMO",
+      "type": "link",
+      "name": "Issuer",
+      "header": "Issuer",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "sector",
+      "id": "bnHQCf_0FU",
+      "type": "link",
+      "name": "Sector",
+      "header": "Sector",
+      "userSelect": true,
+      "defaultWidth": 150,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "linkage",
+      "name": "Linkage",
+      "type": "string",
+      "header": "Linkage",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "duration",
+      "name": "Duration",
+      "type": "number",
+      "header": "Duration",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "number-nocoloring",
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "rating",
+      "name": "Rating",
+      "type": "string",
+      "header": "Rating",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "covenant",
+      "name": "Covenant",
+      "type": "string",
+      "header": "Covenant Type",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "instCommitmentFee",
+      "name": "Inst Commitment Fee",
+      "type": "number",
+      "header": "Commitment Fee",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "pcnt-nocoloring",
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "instOpeningLimit",
+      "name": "Inst Opening Limit",
+      "type": "string",
+      "header": "Opening Limit",
+      "userSelect": true,
+      "defaultWidth": 140,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "instOpeningYield",
+      "name": "Inst Opening Yield",
+      "type": "number",
+      "header": "Opening Yield",
+      "userSelect": true,
+      "defaultWidth": 150,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "instOpeningMargin",
+      "name": "Inst Opening Margin",
+      "type": "number",
+      "header": "Opening Margin",
+      "userSelect": true,
+      "defaultWidth": 140,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "instClosingLimit",
+      "name": "Inst Closing Limit",
+      "type": "string",
+      "header": "Closing Limit",
+      "userSelect": true,
+      "defaultWidth": 140,
+      "minWidth": 100,
+      "defaultFlex": 1
+    },
+    {
+      "internalID": "instClosingYield",
+      "name": "Inst Closing Yield",
+      "type": "number",
+      "header": "Closing Yield",
+      "userSelect": true,
+      "defaultWidth": 150,
+      "xlsType": "pcnt-nocoloring"
+    },
+    {
+      "internalID": "instClosingMargin",
+      "name": "Inst Closing Margin",
+      "type": "number",
+      "header": "Closing Margin",
+      "userSelect": true,
+      "defaultWidth": 140,
+      "xlsType": "pcnt-nocoloring"
+    },
+    {
+      "internalID": "instDemandIls",
+      "name": "Inst Demand (ILS)",
+      "type": "number",
+      "header": "Demand (ILS)",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "currency-nocoloring"
+    },
+    {
+      "internalID": "instDemandUnits",
+      "name": "Inst Demand (units)",
+      "type": "number",
+      "header": "Demand (units)",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "number-nocoloring"
+    },
+    {
+      "internalID": "instClosingIls",
+      "name": "Inst Closing (ILS)",
+      "type": "number",
+      "header": "ILS Raised",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "currency-nocoloring"
+    },
+    {
+      "internalID": "instClosingUnits",
+      "name": "Inst Closing (units)",
+      "type": "number",
+      "header": "Units Raised",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "number-nocoloring"
+    },
+    {
+      "internalID": "publicOfferedUnits",
+      "name": "Public Offered Units",
+      "type": "number",
+      "header": "Public - Max Units",
+      "userSelect": true,
+      "defaultWidth": 160,
+      "xlsType": "number-nocoloring"
+    },
+    {
+      "internalID": "publicClosingUnits",
+      "name": "Public Closing (units)",
+      "type": "number",
+      "header": "Public Closing Units",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "number-nocoloring"
+    },
+    {
+      "internalID": "publicClosingILS",
+      "name": "Public Closing (ILS)",
+      "type": "number",
+      "header": "Public Closing ILS",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "currency-nocoloring"
+    },
+    {
+      "internalID": "publicAuctionDate",
+      "name": "Public Auction Date",
+      "type": "date",
+      "header": "Date - Public",
+      "userSelect": true,
+      "defaultWidth": 128
+    },
+    {
+      "internalID": "leadUnderwriter",
+      "name": "Lead Underwriter",
+      "type": "string",
+      "header": "Lead Distributor",
+      "userSelect": true,
+      "defaultWidth": 128
+    },
+    {
+      "internalID": "subUnderwriters",
+      "name": "Sub Underwriters",
+      "type": "string",
+      "header": "Sub Distributors",
+      "userSelect": true,
+      "defaultWidth": 220
+    },
+    {
+      "internalID": "advisors",
+      "name": "Advisors",
+      "type": "string",
+      "header": "Advisors",
+      "userSelect": true,
+      "defaultWidth": 128
+    },
+    {
+      "internalID": "advisorFee",
+      "name": "Advisor Fee",
+      "type": "number",
+      "header": "Advisors Fee",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "pcnt-nocoloring"
+    },
+    {
+      "internalID": "distributionFee",
+      "name": "Distribution Fee",
+      "type": "number",
+      "header": "Distribution Fee",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "pcnt-nocoloring"
+    },
+    {
+      "internalID": "successFee",
+      "name": "Success Fee",
+      "type": "number",
+      "header": "Success Fee",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "pcnt-nocoloring"
+    },
+    {
+      "internalID": "publicAuctionFee",
+      "name": "Public Auction Fee",
+      "type": "number",
+      "header": "Public Auction Fee",
+      "userSelect": true,
+      "defaultWidth": 128,
+      "xlsType": "currency-nocoloring"
+    }
+  ]
